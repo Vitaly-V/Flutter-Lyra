@@ -1,3 +1,7 @@
+# 0.5.0
+
+- Align version with flutter_lyra 0.5.0.
+
 # 0.4.0
 
 - [Android] Upgrade kotlin version
